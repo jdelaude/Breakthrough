@@ -1,6 +1,5 @@
 """
 Author : Delaude Julien
-N° mat : 000487533
 
 Partie Graphique :
 Source : https://github.com/h-nasir/PyQtChess/tree/284f5256cc594a4b2157984e7e0c23479410913b
